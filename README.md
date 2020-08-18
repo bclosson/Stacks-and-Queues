@@ -2,9 +2,6 @@
 
 # Stacks and Queues
 
-## Overview
-Peanut butter and jelly, Batman and Robin, Rick and Morty... stacks and queues are another iconic duo.
-
 ## Learning Objectives
 By the end of this lesson, you'll be able to:
 - Distinguish between a stack and a queue.
