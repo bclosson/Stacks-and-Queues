@@ -10,13 +10,9 @@ By the end of this lesson, you'll be able to:
 
 ## Prerequisites
 * Big O notation
-
-## Duration
-1.5 hours total:
-* 0.5 hour myGA
+* [myGA module: Stacks and Queues](https://my.generalassemb.ly/activities/803)
 
 ## Additional Resources
-* [myGA module: Stacks and Queues](https://my.generalassemb.ly/activities/803)
 * Here are visualizations for the two implementations of stacks: the [array implementation](https://www.cs.usfca.edu/~galles/visualization/StackArray.html) and [linked list implementation](https://www.cs.usfca.edu/~galles/visualization/StackLL.html).
 * Same thing for queues: the [array implementation](https://www.cs.usfca.edu/~galles/visualization/QueueArray.html) and [linked list implementation](https://www.cs.usfca.edu/~galles/visualization/QueueLL.html).
 * Common interview questions about [stacks](https://www.geeksforgeeks.org/stack-data-structure) and [queues](https://www.geeksforgeeks.org/queue-data-structure).
