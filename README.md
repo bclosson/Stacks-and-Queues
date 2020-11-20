@@ -30,8 +30,8 @@ Peanut butter and jelly, Batman and Robin, Rick and Morty... stacks and queues a
    - Call center phone systems
 
 ## Photos/Screenshots
-- Stack Data Structure
-![Alt text](images/stack-queue.png "Stack and Queue Data Structures")
+
+![Alt text](images/stack-queue.png "Stack and Queue Data Structures")/
 
 
 ## Questions to be Asked
