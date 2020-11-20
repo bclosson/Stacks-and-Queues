@@ -31,10 +31,8 @@ Peanut butter and jelly, Batman and Robin, Rick and Morty... stacks and queues a
 
 ## Photos/Screenshots
 - Stack Data Structure
-![Alt text](images/stack.png "Stack Data Structure")
+![Alt text](images/stack-queue.png "Stack and Queue Data Structures")
 
-- Queue Data Structure
-![Alt text](images/queue.png "Queue Data Structure")
 
 ## Questions to be Asked
     - Can other array methods be used in stack other than push() and pop()?
