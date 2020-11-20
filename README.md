@@ -30,8 +30,8 @@ Peanut butter and jelly, Batman and Robin, Rick and Morty... stacks and queues a
    - Call center phone systems
 
 ## Photos/Screenshots
-![Alt text](https://files.slack.com/files-pri/T0351JZQ0-F01F5R7TD9Q/stack.png "Stack Data Structure")
-![Alt text](https://files.slack.com/files-pri/T0351JZQ0-F01F61XJG75/queue.png "Queue Data Structure")
+![Alt text](images/stack.png "Stack Data Structure")
+![Alt text](images/queue.png "Queue Data Structure")
 
 ## Questions to be Asked
     - Can other array methods be used in stack other than push() and pop()?
