@@ -4,18 +4,38 @@
 
 Peanut butter and jelly, Batman and Robin, Rick and Morty... stacks and queues are another iconic duo.
 
-## Learning Objectives
-By the end of this lesson, you'll be able to:
-- Distinguish between a stack and a queue.
-- Determine situations in which you’d use a stack or queue over another data structure.
-- Build a stack and a queue using a linked list or an array.
+## Similarities
+    Both Stacks and Queues are linear data structures and both flexible in size(n number of data).  They both only work on one piece of data at a time, because of this they are both efficient and fast to run. They are (O(1)) efficiency except the queues when used in an array(O(n)).  They can both be represented by an array and a linked list.
 
-## Prerequisites
-* Big O notation
-* [myGA module: Stacks and Queues](https://my.generalassemb.ly/activities/803)
+## Stacks
+    The Stack collection of data is manipulated by "last in first out"(LIFO) meaning the last piece of information to be inputed is the first peice of information to be pulled out. You can think about it like a stack of pancakes, you stack the pancakes up and then serve them from the top down(you wouldn't take the bottom cold/squished pancakes would you?!?). 
+
+    The methods used to manipulate the data within the structure are the array methods push(), pop(), and then a non array method used to view/access the tail of the data is called peek.
+
+### Examples:
+   - Instagram stories if you're moving backwards
+   - Undo functions / command Z 
+   - Back button on your browser
+   - Social media timelines/most recent
+
+## Queues
+    The Queues collection of data is manipulated by "first in first out"(FIFO) meaning the oldest data is the first to served".  Think about a line at the airport security where the first person in line goes through the checkpoint before those who entered the checkpoint after. 
+
+    The methods used to manipulate the data within the structure are enqueue(add data to the queue), and dequeue(remove data form queue).  Queues also use the peek to analyze/return the value of the first item in the data structure. 
+
+### Examples:
+   - Printers being sent documents to print
+   - CPU scheduling (executing tasks in the order in which they are received)
+   - Debugging ticketing system
+   - Call center phone systems
+
+## Photos/Screenshots
+![Alt text](https://files.slack.com/files-pri/T0351JZQ0-F01F5R7TD9Q/stack.png "Stack Data Structure")
+![Alt text](https://files.slack.com/files-pri/T0351JZQ0-F01F61XJG75/queue.png "Queue Data Structure")
+
+## Questions to be Asked
+    - Can other array methods be used in stack other than push() and pop()?
 
 ## Additional Resources
-* Here are visualizations for the two implementations of stacks: the [array implementation](https://www.cs.usfca.edu/~galles/visualization/StackArray.html) and [linked list implementation](https://www.cs.usfca.edu/~galles/visualization/StackLL.html).
-* Same thing for queues: the [array implementation](https://www.cs.usfca.edu/~galles/visualization/QueueArray.html) and [linked list implementation](https://www.cs.usfca.edu/~galles/visualization/QueueLL.html).
-* Common interview questions about [stacks](https://www.geeksforgeeks.org/stack-data-structure) and [queues](https://www.geeksforgeeks.org/queue-data-structure).
-* Don’t forget to review [priority queues](https://www.geeksforgeeks.org/priority-queue-set-1-introduction) and [deques](https://www.geeksforgeeks.org/deque-set-1-introduction-applications).
+
+
