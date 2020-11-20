@@ -44,6 +44,6 @@ The methods used to manipulate the data within the structure are enqueue(add dat
 
 ## Additional Resources
 
-![Alt text](https://www.thecrazyprogrammer.com/2016/05/difference-between-stack-and-queue.html)
-![Alt text](https://www.youtube.com/watch?v=jm10v9409d4&amp;ab_channel=colleenlewis)
-![Alt text](https://cse.buffalo.edu/~shapiro/Courses/CSE116/notes10.html)
+[crzy programmer](#https://www.thecrazyprogrammer.com/2016/05/difference-between-stack-and-queue.html)
+[u-tube](#https://www.youtube.com/watch?v=jm10v9409d4&amp;ab_channel=colleenlewis)
+[buffalo.edu](#https://cse.buffalo.edu/~shapiro/Courses/CSE116/notes10.html)
